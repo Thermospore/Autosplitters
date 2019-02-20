@@ -1,2 +1,2 @@
 # autosplitters
-LiveSplit auto splitter scripts
+LiveSplit autosplitters
